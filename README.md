@@ -9,3 +9,6 @@
 
 <h3>Créditos</h3>
 <span>https://github.com/paulozip/calculo-de-hash-arquivo-ptu</span>
+
+<h3>Obs:</h3>
+<span>Em fase de teste</span>
